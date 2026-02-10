@@ -1,0 +1,77 @@
+{
+  "book_id": "postwar-existentialist-naturalist-generational-conflict",
+  "title": "The River's Patient Indifference",
+  "tagline": "A soldier returns to a home he no longer recognizes, bearing the unspeakable weight of a war his father's generation will never understand.",
+  "target_words": 66281,
+  "actual_words": 66281,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unspeakable Burden of Memory",
+    "The Fractured American Landscape",
+    "The Search for Solid Ground",
+    "The Lies We Build to Survive"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Steel Suture",
+      "words": 5523
+    },
+    {
+      "ch": 2,
+      "title": "A Ceremony of Whipped Clouds",
+      "words": 5523
+    },
+    {
+      "ch": 3,
+      "title": "Cathedral of the Living Line",
+      "words": 5523
+    },
+    {
+      "ch": 4,
+      "title": "The River's Patient Indifference",
+      "words": 5523
+    },
+    {
+      "ch": 5,
+      "title": "What Kind of Dam",
+      "words": 5523
+    },
+    {
+      "ch": 6,
+      "title": "A Brick of Green Defiance",
+      "words": 5523
+    },
+    {
+      "ch": 7,
+      "title": "The Ship Becalmed",
+      "words": 5523
+    },
+    {
+      "ch": 8,
+      "title": "A Tripwire, Laid",
+      "words": 5523
+    },
+    {
+      "ch": 9,
+      "title": "Processed Quiet",
+      "words": 5523
+    },
+    {
+      "ch": 10,
+      "title": "The Anchor Holds",
+      "words": 5523
+    },
+    {
+      "ch": 11,
+      "title": "A Harbor, A Cage",
+      "words": 5523
+    },
+    {
+      "ch": 12,
+      "title": "The Country Healed Crooked",
+      "words": 5523
+    }
+  ]
+}
